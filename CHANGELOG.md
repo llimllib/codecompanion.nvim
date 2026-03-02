@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.2.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.1.0...v19.2.0) (2026-03-02)
+
+
+### Features
+
+* **chat:** pass context to chat interaction when prompt is function ([#2762](https://github.com/olimorris/codecompanion.nvim/issues/2762)) ([c079e95](https://github.com/olimorris/codecompanion.nvim/commit/c079e95c0ec9f1371dadc91a1a5eaf24b6e6c4e3))
+
 ## [19.1.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.0.0...v19.1.0) (2026-03-02)
 
 
